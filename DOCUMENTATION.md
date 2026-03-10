@@ -1,6 +1,5 @@
 # IT Helpdesk Home Lab
 ### Built by: Munashe 
-### GitHub: [github.com/Munex223](https://github.com/Munex223)  
 ---
 
 ## What Is This Project?
@@ -436,12 +435,5 @@ Feel free to fork this repo and adapt it for your own lab. Some ideas:
 - Extend the Zendesk setup with triggers and automations (auto-assign by keyword, auto-close after 72 hours)
 - Add a second domain controller for AD replication practice
 - Replace Zendesk with ServiceNow Developer Instance (free) for a more enterprise-grade ITSM tool
-
----
-
-## Author
-
-- GitHub: [github.com/yourusername](https://github.com/Munex223)
----
 
 *Built as a self-directed IT Helpdesk portfolio project. All infrastructure, scripts, and documentation written from scratch.*
