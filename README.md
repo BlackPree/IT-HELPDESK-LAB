@@ -1,7 +1,7 @@
 # IT-HELPDESK-LAB
 # Hi, I'm Munashe 👋
 
-I'm an aspiring IT professional building hands-on skills in:
+This is a  IT-help desk lab that uses the following infrastructure with zero cost:
 - 🖥️ Windows Server & Active Directory
 - ☁️ AWS Cloud Infrastructure
 - ⚡ PowerShell Automation
