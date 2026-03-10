@@ -12,4 +12,4 @@ This is a  IT-help desk lab that uses the following infrastructure with zero cos
   Full helpdesk environment on AWS with Active Directory, PowerShell scripts, and Zendesk
 
 ## 📫 Connect
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: (https://www.linkedin.com/in/munashenyarwendo/
