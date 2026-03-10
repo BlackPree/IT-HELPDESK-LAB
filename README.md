@@ -8,7 +8,7 @@ This is a  IT-help desk lab that uses the following infrastructure with zero cos
 - 🎫 IT Ticketing & ITSM (Zendesk)
 
 ## 📂 Current Projects
-- [IT Helpdesk Home Lab](https://github.com/YOURUSERNAME/it-helpdesk-lab) — 
+- [IT Helpdesk Home Lab](https://github.com/BlackPree/IT-HELPDESK-LAB)) 
   Full helpdesk environment on AWS with Active Directory, PowerShell scripts, and Zendesk
 
 ## 📫 Connect
