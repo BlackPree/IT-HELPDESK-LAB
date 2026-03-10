@@ -1,8 +1,6 @@
 # IT Helpdesk Home Lab
-### Built by: [Your Name]  
+### Built by: Munashe 
 ### GitHub: [github.com/yourusername](https://github.com/Munex223)  
-### LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
 ---
 
 ## What Is This Project?
@@ -443,18 +441,7 @@ Feel free to fork this repo and adapt it for your own lab. Some ideas:
 
 ## Author
 
-**[Your Full Name]**  
-[Your Location]
-
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
-Certifications in progress / completed:
-- [ ] CompTIA A+
-- [ ] CompTIA Network+
-- [ ] Microsoft AZ-900 (Azure Fundamentals)
-- [ ] AWS Cloud Practitioner
-
+- GitHub: [github.com/yourusername](https://github.com/Munex223)
 ---
 
 *Built as a self-directed IT Helpdesk portfolio project. All infrastructure, scripts, and documentation written from scratch.*
