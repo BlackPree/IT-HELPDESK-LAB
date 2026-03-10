@@ -1,6 +1,6 @@
 # IT Helpdesk Home Lab
 ### Built by: Munashe 
-### GitHub: [github.com/yourusername](https://github.com/Munex223)  
+### GitHub: [github.com/Munex223](https://github.com/Munex223)  
 ---
 
 ## What Is This Project?
