@@ -1,4 +1,4 @@
-# IT-HELPDESK-LAB
+# Cloud-Native Hybrid Helpdesk Ecosystem (Azure + AWS)
 # Hi, I'm Munashe 👋
 
 This is a  IT-help desk lab that uses the following infrastructure with zero cost:
