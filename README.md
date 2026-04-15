@@ -1,4 +1,5 @@
 # Cloud-Native Hybrid Helpdesk Ecosystem (Azure + AWS)
+Objective: A cost-optimized, automated ITSM solution leveraging Windows Server 2022 on Azure and monitoring/logging on AWS.
 # Hi, I'm Munashe 👋
 
 This is a  IT-help desk lab that uses the following infrastructure with zero cost:
