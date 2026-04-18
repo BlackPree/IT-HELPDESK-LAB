@@ -3,7 +3,7 @@
 
 **Author:** Munashe B Nyarwendo
 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**LinkedIn:**(https://www.linkedin.com/in/munashenyarwendo/))
 
 ---
 
