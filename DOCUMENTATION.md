@@ -1,8 +1,7 @@
 # Cloud-Native Hybrid Helpdesk Ecosystem
 ## Full Project Documentation
 
-**Author:** Munashe B Nyarwendo
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+**Author:** Munashe B Nyarwendo 
 **LinkedIn:**(https://www.linkedin.com/in/munashenyarwendo/))
 
 ---
