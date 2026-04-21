@@ -59,7 +59,6 @@ The project bridges two major cloud providers to simulate a real-world enterpris
 ## 🤝 Connect with Me
 
 * **LinkedIn:** [Munashe Nyarwendo](https://www.linkedin.com/in/munashenyarwendo/)
-* **Portfolio:** [Your Portfolio Link or GitHub Proile]
 
 ---
 *This project was built for educational purposes to demonstrate cloud architectural skills.*
